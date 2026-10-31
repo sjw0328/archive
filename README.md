@@ -12,6 +12,7 @@ Each folder is a separate project.
 | [hinge-demo](hinge-demo) | Webcam-based laptop lid angle estimation + frosted-glass transition overlay / 웹캠 힌지 각도 추정 + 전환 연출 |
 | [usb-mirror](usb-mirror) | Android screen mirroring over USB without a capture card / 캡처보드 없는 안드로이드 USB 화면 미러링 |
 | [omega-spatial](omega-spatial) | Real-time spatial audio engine (single file) / 실시간 공간음향 엔진(단일 파일) |
+| [webcam-enhancer](webcam-enhancer) | Real-time webcam correction to a virtual camera / 웹캠 실시간 화질 보정 + 가상 카메라 출력 |
 
 ## Status / 상태
 
