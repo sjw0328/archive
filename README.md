@@ -5,6 +5,14 @@ Each folder is a separate project.
 
 더 이상 유지보수하지 않는 개인 프로젝트 모음입니다. 폴더 하나가 프로젝트 하나입니다.
 
+## Projects / 프로젝트
+
+| Folder | Description |
+|---|---|
+| [hinge-demo](hinge-demo) | Webcam-based laptop lid angle estimation + frosted-glass transition overlay / 웹캠 힌지 각도 추정 + 전환 연출 |
+| [usb-mirror](usb-mirror) | Android screen mirroring over USB without a capture card / 캡처보드 없는 안드로이드 USB 화면 미러링 |
+| [omega-spatial](omega-spatial) | Real-time spatial audio engine (single file) / 실시간 공간음향 엔진(단일 파일) |
+
 ## Status / 상태
 
 - Not maintained. Issues and pull requests may not be answered.
